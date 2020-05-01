@@ -1,2 +1,2 @@
 # node-api
-Criação de uma API REST. Iniciando no nodejs.
+Criação de uma API. Iniciando no nodejs.
